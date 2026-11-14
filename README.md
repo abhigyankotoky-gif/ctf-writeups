@@ -19,7 +19,7 @@ Personal archive of CTF challenge writeups. Every entry includes full solution w
 ```
 ctf-writeups/
 ├── README.md
-├── _template.md                  ← Copy this when starting a new writeup
+├── _template.md                  
 │
 ├── OverTheWire/
 │   └── Bandit/
@@ -56,15 +56,12 @@ Each writeup covers:
  
 ## Progress
  
-### OverTheWire — Bandit
+### BreachLab — Ghost
  
 | Level | Completed | Notes |
 |-------|-----------|-------|
-| 0 → 1 | ☐ | |
-| 1 → 2 | ☐ | |
-| 2 → 3 | ☐ | |
- 
-*(Update as you go)*
+| 0 → 1 |✅| passive recon , basic filesystem navigation|
+
  
 ---
  
