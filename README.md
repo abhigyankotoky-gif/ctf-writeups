@@ -40,7 +40,7 @@ ctf-writeups/
 └── BreachLab/
     └── Ghost/
         ├── README.md
-        └── [challenge-name].md
+        └── level-00-01.md
 ```
  
 ---
